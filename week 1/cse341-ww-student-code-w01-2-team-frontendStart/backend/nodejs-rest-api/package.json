@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-rest-api",
+  "version": "1.0.0",
+  "description": "A Node.js REST API to serve data for a frontend application.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^10.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

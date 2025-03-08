@@ -1,0 +1,12 @@
+{
+  "professionalName": "John Doe",
+  "professionalImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA...",
+  "nameLink": "https://www.johndoe.com",
+  "primaryDescription": "Web Developer",
+  "workDescription1": "Experienced in building web applications using modern technologies.",
+  "workDescription2": "Passionate about coding and always eager to learn new skills.",
+  "linkTitleText": "Connect with me:",
+  "linkedInLink": "https://www.linkedin.com/in/johndoe",
+  "githubLink": "https://github.com/johndoe",
+  "contactText": "Feel free to reach out via my website or LinkedIn."
+}
